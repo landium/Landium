@@ -1,4 +1,9 @@
-
-body {
-    color: green;
+.navbar-light {
+  border-bottom: 1px solid #ccc;
 }
+
+.navbar-light .navbar-nav .nav-item .nav-link {
+  color: #000;
+  font-weight: 600;
+}
+/*# sourceMappingURL=style.css.map */

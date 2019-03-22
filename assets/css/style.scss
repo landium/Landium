@@ -1,0 +1,19 @@
+$gray: #333;
+$gray-light: #ccc;
+
+
+// navbar
+
+.navbar-light {
+  border-bottom: 1px solid $gray-light;
+
+  .navbar-nav {
+    .nav-item {
+      .nav-link {
+          color: #000;
+          font-weight: 600;
+      }
+    }
+  }
+}
+
