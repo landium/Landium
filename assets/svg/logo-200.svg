@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 30 30"
+   viewBox="0 0 200 200"
    focusable="false"
    role="img"
    version="1.1"
    id="svg8"
    sodipodi:docname="logo-30.svg"
    inkscape:version="0.92.4 (unknown)"
-   width="30"
-   height="30"
+   width="200"
+   height="200"
    inkscape:export-filename="/home/gomzyakov/dev/landium/assets/img/logo-200.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -47,8 +47,8 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="19.80509"
-     inkscape:cy="86.000004"
+     inkscape:cx="-200.19491"
+     inkscape:cy="26.000004"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -57,7 +57,7 @@
      id="title2">Bootstrap</title>
   <g
      id="g3739"
-     transform="matrix(0.04901961,0,0,0.04901961,-0.25423666,0)">
+     transform="matrix(0.32679739,0,0,0.32679739,-1.694911,1.32e-6)">
     <rect
        y="0"
        x="5.1864276"
