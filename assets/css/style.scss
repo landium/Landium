@@ -1,6 +1,11 @@
 $gray: #333;
 $gray-light: #ccc;
 
+$color-primary: #ccc;
+
+body {
+  font-family: "Noto Sans", sans-serif;
+}
 
 // navbar
 
@@ -10,10 +15,16 @@ $gray-light: #ccc;
   .navbar-nav {
     .nav-item {
       .nav-link {
-          color: #000;
-          font-weight: 600;
+        color: #000;
+        font-weight: 600;
       }
     }
   }
 }
 
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+}
