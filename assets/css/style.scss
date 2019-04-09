@@ -4,7 +4,7 @@ $gray-light: #ccc;
 $color-primary: #ccc;
 
 body {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 // navbar
@@ -25,6 +25,14 @@ body {
 h1,
 h2,
 h3,
-h4 {
-  font-weight: 600;
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-weight: 500;
 }
